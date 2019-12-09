@@ -240,9 +240,3 @@ df.to_csv("pairs_str.csv",encoding="utf-8")
 df = pd.DataFrame({'head':pairh,'tail':pairt})
 
 df.to_csv("pairs.csv",encoding="utf-8")
-
-
-
-
-
-

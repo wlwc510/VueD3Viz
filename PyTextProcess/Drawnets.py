@@ -36,8 +36,6 @@ merge_result_tuples = [(getattr(xi,"head"),getattr(xi,"tail")) for xi in pairs.i
 #
 # merge_result_tuples = relilist
 
-# sensors=np.array(sensors)
-
 sensors=sensors.values.flatten().tolist()
 
 #替换成句子
@@ -49,6 +47,64 @@ sensors=sensors.values.flatten().tolist()
 #     senilist.append(orderdict.get(seni))
 #
 # sensors=senilist
+
+applications=applications.values.flatten().tolist()
+
+cm=merge_result_tuples
+
+for a in applications:
+
+    for r in cm:
+
+        if r[0] == a:
+
+            merge_result_tuples.remove(r)
+
+for s in sensors:
+
+    for r in cm:
+
+        if r[1] == s:
+
+            merge_result_tuples.remove(r)
+
+print("输出sensors全部节点：{}".format(len(sensors)))
+
+print("输出applications全部节点：{}".format(len(applications)))
+
+ca=applications
+
+cs=sensors
+
+for a in ca[:]:
+
+    for s in cs[:]:
+
+        if a == s:
+
+            sensors.remove(s)
+
+            applications.remove(a)
+
+print(applications[0])
+
+print("输出sensors后全部节点：{}".format(len(sensors)))
+
+print("输出applications后全部节点：{}".format(len(applications)))
+
+# sensors = sensors[0:12]
+#
+# applications = applications[0:12]
+
+# 替换成句子
+
+# appilist = []
+#
+# for appi in applications:
+#
+#     appilist.append(orderdict.get(appi))
+#
+# applications = appilist
 
 sl=len(sensors)
 
@@ -64,17 +120,7 @@ for left in range(sl):
 
     count+=1
 
-applications=applications.values.flatten().tolist()
-
-# 替换成句子
-
-# appilist = []
-#
-# for appi in applications:
-#
-#     appilist.append(orderdict.get(appi))
-#
-# applications = appilist
+print("poss",poss)
 
 al=len(applications)
 
@@ -90,17 +136,23 @@ for right in range(al):
 
     count+=1
 
-posdict1=dict(zip(applications,posa))
+print("posa",posa)
 
-posdict2=dict(zip(sensors,poss))
+posdict1=dict(zip(sensors,poss))
 
-posdict2.update(posdict1)
+posdict2=dict(zip(applications,posa))
 
-sensors=sensors[0:8]
+posdict1.update(posdict2)
 
-applications=applications[0:8]
+color1=['g' for i in range(12)]
 
-merge_result_tuples=merge_result_tuples[0:30]
+color2=['b' for i in range(12)]
+
+colors=color1+color2
+
+print("color:", colors)
+
+# merge_result_tuples=merge_result_tuples[0:30]
 
 G=nx.Graph()
 
@@ -110,9 +162,61 @@ G.add_nodes_from(sensors)
 
 G.add_nodes_from(applications)
 
+print("输出sensors全部节点：{}".format(len(sensors)))
+
+print(sensors)
+
+print("输出applications全部节点：{}".format(len(applications)))
+
+print(applications)
+
+print("输出G全部节点：{}".format(G.number_of_nodes()))
+
+cm=merge_result_tuples
+
+for r in cm[:]:
+
+    tag=False
+
+    for s in sensors:
+
+        if r[1]== s:
+
+            merge_result_tuples.remove(r)
+
+        if r[0] == s:
+
+            tag=True
+
+    if not tag and r in merge_result_tuples:
+
+        merge_result_tuples.remove(r)
+
+for r in cm[:]:
+
+    tag = False
+
+    for a in applications:
+
+        if r[0] == a:
+
+            merge_result_tuples.remove(r)
+
+        if r[1] == a:
+
+            tag=True
+
+    if not tag and r in merge_result_tuples:
+
+        merge_result_tuples.remove(r)
+
+print("输出merge_result_tuples全部边的数量：{}".format(len(merge_result_tuples)))
+
 G.add_edges_from(merge_result_tuples)
 
 print("输出全部节点：{}".format(G.nodes()))
+
+print("输出全部节点：{}".format(G.number_of_nodes()))
 
 print("输出全部边：{}".format(G.edges()))
 
@@ -120,7 +224,11 @@ print("输出全部边的数量：{}".format(G.number_of_edges()))
 
 # posc=nx.get_node_attributes(G,'pos')
 
-nx.draw(G,pos=posdict2,with_labels=True)
+nx.draw(G,with_labels=True,node_color=colors)
+
+# nx.draw_node_network,pos=posdict1
+
+# nx.draw(G,with_labels=True,node_color=colors)
 
 # ,with_labels=True,arrowsize=0.5,arrowstyle='->'
 
