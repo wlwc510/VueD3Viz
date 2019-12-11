@@ -1,0 +1,15 @@
+For the experiment conducted by Dai
+
+#0: prepare the remote sensing datasets using the search conditions. (350 abstracts from the literatures)
+
+#1: tagging the "belong and not belong to sensors" using 1 and 0 for the sentences. 
+
+#2: tagging the "belong and not belong to applications" using 0 and 1 for the sentences.
+
+#3: classifying the sentences using the feature extraction methods and classifers
+    Feature extractions indclude word2vec, do2vec, bert
+    classfiers include SVM, NB, and LR.
+    Classi combination using the voting principle
+    
+#4: using NER methods BiLSTM, CRF, and word2vec to identify the sensor names and application key phrase.
+
