@@ -1,0 +1,796 @@
+CI
+LAI
+p - values
+applications
+vegetation
+chlorophyll ( Chl )
+aquatic environments
+benthic habitat
+bathymetry
+water column optical properties
+coral reef
+soil moisture
+global soil moisture maps
+temperature
+snow water equivalent product
+SWE
+SWE maps
+snow depth
+distribution of phytoplankton
+vertical distribution of optical properties
+suspended particles
+linear depolarization profiles
+layers with different backscattering intensity
+system attenuation coefficients
+K - sys
+vertical distributions of optical properties
+geochemical constituents
+quality
+scope of a variety of oceanographic investigations
+physiological conditions of plants
+combined retrieval of vegetation biochemical and biophysical parameters
+Sun - induced chlorophyll fluorescence
+plant status
+spectral sampling
+observational trade space
+Earth
+high spectral sampling
+spatial sampling
+radiance
+top - of - atmosphere radiance
+cross - calibration
+canopy defoliation
+spectral and structural signatures of canopy defoliation
+structural changes
+insect defoliation
+topographic correction
+mountainous region
+q ( a )
+T - a
+urban surface temperatures
+thermal anisotropy processes
+orientation and shadowing of surfaces
+pixels and the entire canopy surface
+shadow hysteresis
+surface sky view factor
+building edge effects
+thermal anisotropy
+spatial pattern
+discriminating the types of artificial light
+artificial light brightness
+land uses
+lighting objects
+surface biophysical parameters
+spaceborne multiangle observations
+surface BRDF information
+POLDER Bidirectional Reflectance Factors ( BRFs )
+geolocated
+surface BRDF
+BRDF model parameters
+BRDF shapes
+optical reflectance
+methane emissions
+methane plumes
+radiances with variable methane concentrations
+albedo
+surface cover
+aerosols
+gas plumes
+regional and global ET and GPP
+water use in agriculture
+evapotranspiration and water demand
+irrigation
+crop parameters
+surface albedo
+Leaf Area Index ( LAI )
+evapotranspiration ( ETp )
+Irrigation Water Requirements ( IWR )
+values of canopy parameters
+canopy growth
+IWR
+water demand
+cloud
+global coverage of land surfaces
+precursory motions
+displacement
+precursory patterns
+landslide
+pre - failure motions of landslides
+vegetation phenology
+vegetation types
+vegetation index series
+SOS
+viewing angle effect
+spatially - detailed retrievals of phenology
+land surface
+changed regions
+maritime activity
+Ship
+characteristics of different physical materials
+spectral
+constituent rock minerals
+flood
+flooding
+land cover
+objects
+glacial surface
+ice thickness
+ice surface
+subglacial topography
+pixel - wise
+forest attributes
+forest
+static in - situ
+point cloud
+point cloud data
+terrain relief index
+terrain relief amplitude
+Light
+Ranging
+point clouds
+passive - derived point clouds
+damaged
+loose fasteners
+point cloud of fasteners
+soil and vegetation thermal emissivities
+leaf water content
+atmospheric
+atmospheric influence
+TP concentration
+eutrophication of lake environments
+land cover maps
+urban land cover
+urban land cover maps
+land cover classes
+urban environmental quality index ( UEQI )
+biophysical indicators
+land surface temperature ( LST )
+normalized difference vegetation index ( NDVI )
+soil adjusted vegetation index ( SAVI )
+leaf wetness content index ( LWCI )
+normalized humid index ( NHI )
+normalized difference built - up index ( NDBI )
+normalized difference impervious surface index ( NDISI )
+signal - to - noise ratio ( SNR )
+radiometric sensitivity
+turbid inland waters
+SNR values
+concentration distributions of cyanobacterial algal blooms and suspended particulate matter ( SPM )
+chlorophyll - a ( Chia ) concentrations
+SNR
+inland waters
+Canopy height model ( CHM )
+urban tree species
+Species
+tree species
+vegetation density
+vigor
+NDVI
+NDVI data
+surface soil moisture
+land - cover
+urban land - cover
+high spatial
+temporal coverage
+biogeographical classification
+pelagic environment
+marine conservation
+biogeophysical data
+area of biological and physical homogeneity spatially
+Chlorophyll
+sea - surface temperature
+primary production
+final cluster
+Urban land - use
+urban land - use maps
+streamflow
+river hydraulic variables
+river water surface widths
+meteorological
+river widths
+hydrological modeling
+area
+water volume
+water intakes
+regional G ( 0 )
+land surface temperature
+ship
+green - red index ( GRI )
+farmland
+woodland
+evapotranspiration
+cloud shadow features
+cloud shadow
+Cloud
+urban dynamics
+ecosystems change
+aquatic vegetation
+submerged vegetation
+water soldier
+Canadian navigational charts
+shoreline
+change
+Bathymetry
+SDB
+Digital Surface Models
+orthophotos
+settlement characteristics
+edge locations
+vegetation indices
+gravitational phenomena
+complementary motion components
+actual surface motion field
+glacier surface kinematics
+spectral property
+burned areas
+CDOM absorption
+CDOM
+a ( g )
+biological plant invasions
+invasive plants
+invasive
+acquisition periods
+understory plant
+phonological differences
+phenological differences
+newly grown leaves ( NGL )
+NGL
+target
+surface
+LSTs
+LST
+winter wheat growth
+aboveground biomass
+yield
+winter wheat LAI
+biomass
+yield loss
+on winter wheat
+and grain
+crop yield loss
+water - logging
+Point cloud data
+large - scale forest inventory assessment
+point cloud data ( PCD )
+PCD
+canopy height models ( CHMs )
+mean top height
+canopy heights
+stand density
+basal area
+total recoverable volume
+forest inventory attributes
+depicting classes
+Ground
+ground
+urban areas
+biophysical properties
+physical resources
+watershed
+Thematic layers
+number of brick kilns
+scale of the slavery problem
+impact of slavery
+environmental change
+impacts on ecosystem services
+CH
+CH protection
+sustainable tourism
+SDG indicators
+CH SDGs
+ocean surface
+marine pollution
+slick - covered areas
+clean sea
+polluted area
+mineral
+vegetable oil
+environmental
+large - scale urban
+urban
+land surface reflectance data
+seasonal trends
+time - series radar signature of the profile
+oil presence
+ocean color data
+ocean color images
+chlorophyll - a concentration
+diffuse attenuation coefficient
+normalized water - leaving radiance spectra
+ocean features
+Atmospheric
+weather
+preconvective environments
+surface soil moisture ( SSM )
+SSM
+velocity field
+velocities
+lower contrast imagery
+crop growth
+crop yield
+red - green - blue ( RGB ) images
+normalized difference water index ( NDWI )
+surface currents
+current measurements
+surface temperatures
+coefficient values
+global land surface water ( fw ) inundation dynamics
+vegetation contributions
+inundation variations
+inundation changes
+land cover areas
+vegetation cover
+water bodies covered
+Water Occurrence Dataset ( WOD )
+water
+land
+seasonal wet
+dry periods
+water maps
+surface water inundation dynamics
+flood risk
+land surface temperatures ( LST )
+vegetation canopy temperatures
+LST variability
+urban surface composition
+temperature variability
+plant functional types
+tree
+turfgrass
+urban materials
+impervious surface
+commercial roof
+non - photosynthetic vegetation
+soil
+LST changes
+Vegetation LST variability
+urban microclimates
+seafloor propeller seagrass scars
+scars across the submarine landscape
+habitat characteristics of coastal waters
+aboveground forest biomass
+canopy height
+cover type data
+leaf area index ( LAI )
+evapotranspiration ( ET )
+ET data
+ET images
+scene - level land - use
+blocks
+street blocks
+land - use scenes
+impervious surface dynamics
+impervious surfaces
+light
+ranging
+chlorophyll fluorescence ( SW )
+particle types
+sources
+backscattered sunlight
+aerosol abundances
+particle properties
+airborne particle composition
+aerosol optical depths
+particle species
+population health
+atmosphere systems
+ozone
+military
+civil fields
+natural disaster damage
+agricultural
+urban land - use
+ground target
+urban land cover map
+tropical forest ' s attributes
+tropical swamp forest
+FOTO
+GLCM textures
+GLCM metrics
+tropical swamp forest attributes
+land surface information
+target information
+anomaly
+crop area
+peanut crop
+peanut
+crops
+ground objects
+landslide area
+tidal area
+low water time
+intertidal habitats
+macrostructures
+bedform shift
+intertidal surface structures of geomorphic or biogenic origin
+offshore domain
+marine oil slicks
+thickness or the amount of pollutant
+mineral oil spill
+Foliar isoprene emissions
+pigment index
+isoprene index
+coast
+Total Suspended Solids ( TSS )
+TSS
+Estuarine Turbidity Maximum ( ETM )
+water quality
+turbid coastal
+inland water environments
+lava flow field
+lava tubes
+lava flow field endogenous growth
+Quantitative Precipitation Estimates ( QPEs )
+QPEs
+QPE
+meteorological extremes
+forest inventory
+individual trees
+tree structural parameters
+tree trunk
+Tree trunks
+Trunk
+land cover patches
+small objects
+texture distribution information
+NDVI ( Normalized Difference Vegetation Index ) data
+spatial distribution of NDVI
+ocean
+altimetry
+rivers
+discharge
+FDCs
+Po River
+river hydrological regime
+water level
+water extent
+flow regimes
+water balance
+routine weather data
+outflow
+lake precipitation
+water storage
+lake inflow
+lake evaporation
+film slicks
+Information about slicks
+damping ratio
+contrast
+LST data
+changes
+ocean colour
+object - based change
+OBCD
+urban area change
+built - up maps
+water stress
+water stress symptoms
+meteorological data
+surface temperature
+chamber flux
+diurnal changes
+large wild herbivore populations
+wild animals
+atmospheric CO2
+CO2 products
+Atmospheric Environment Monitoring Satellite ( AEMS )
+CO2
+city - scale column CO2 volume mixing ratios ( XCO2 )
+city - scale XCO2 values
+XCO2 values
+carbon emissions
+urban carbon fluxes
+PCBs
+PCB concentration maps
+3D building roofs
+above - ground biomass
+Climatic Data Record ( CDR )
+cover
+vegetation amounts
+glaciers
+glacial lakes
+rainfall
+rainfall data
+Precipitation
+chlorophyll - a ( chl - a )
+chl - a concentration
+chl - a
+forest health
+resilience
+wastewater volume
+dissolved oxygen ( DO )
+permanganate
+ammonia nitrogen
+urban index
+anthropogenic activities
+vegetation GPP
+GPP variability
+GPP
+GPP variation
+flow parameters
+continental ice sheet surface velocity
+vegetation restoration trajectories
+EVI
+LSWI values
+NPP values
+NPP
+C - flux
+EVI data
+land - surface energy fluxes
+forests ' carbon reserves
+flood - damaged area
+chlorophyll
+nitrogen content
+tree crowns
+PSB outbreaks
+PSB stress
+point target
+PSCs
+PSC
+phytoplankton pigment
+phytoplankton size classes
+picophytoplankton
+phytoplankton
+microphytoplankton
+C - 14 uptake
+urban change
+complex wetland classes
+wetland
+wetlands
+lake water quality
+chlorophyll - a
+nutrient concentrations
+water sampling campaigns
+nutrients
+chlorophyll - a concentrations
+water quality components
+water quality constituents
+freshwater lake properties
+landslide location maps
+landslide maps
+landslide locations
+inaccessible areas
+confinement
+Enhanced Vegetation Index ( EVI )
+forest canopy
+degradation
+regeneration
+photochemical reflectance index ( PRI )
+PRI
+photosynthetic productivity parameters
+photosynthetic productivity
+leaf PRI
+ET
+MOD16
+crop biomass
+nitrogen
+empirical datasets
+moving wild animals
+sika deer
+moving objects
+animal population
+pond aquaculture
+aquaculture
+aquaculture ponds
+production
+mapping product
+spatial
+aerosol optical depth ( AOD )
+SSR
+ARF
+surface water bodies
+water change
+floods
+surface water
+surface water dynamic
+water extent variation
+precipitation data
+water resource
+rainfall rate
+Global Precipitation Measurement ( GPM )
+raft - culture
+Building
+building
+rice fields with flooding
+rice fields with agronomic inundation
+archaeological
+buried structures
+structures
+archaeological site
+emissions
+fire products
+fire product
+total particulate matter ( TPM ) emissions
+fires
+TPM emissions
+traffic
+air
+disaster
+disasters
+Coherence maps
+areas
+sea surface
+sea surfaces
+Evapotranspiration
+heat fluxes
+Aerial scene
+vegetation indices ( VIs )
+VIs
+parameters
+above - ground biomass ( AGB )
+crop heights
+AGB
+whole image cube
+Aircraft type
+mass balance for three glaciers
+scattering coefficient of the sea surface
+scattering from an ocean surface
+sea waves
+electromagnetic ( EM )
+scattering
+wind sea waves
+scattering coefficient
+matter
+target areas
+TSM
+normalized water - leaving radiance ( Lwn )
+oceanic phenomena
+global precipitation measurement ( GPM - GSMaP )
+GPM - GSMaP
+heavy rain events
+heavy rain
+light and moderate rain
+rainfall events
+precipitation
+Snow cover extent
+full polarimetric image
+snow cover map
+Arctic sea ice cover
+sea ice parameters
+thickness
+age
+Arctic sea ice volume changes
+tree crown
+ITCD
+data
+forest resource inventory
+trees
+plants traits
+plant traits
+plant - level traits of CHLorophyll content ( CHL )
+specific plant area
+SPA
+plant dry matter content
+PDMC
+traits
+leaf traits
+CHL
+functional diversity
+ecosystem functions
+forest encroachment
+carbon stock
+forest carbon sequestration capability
+bamboo forest map
+AGC density
+multiscale objects
+geothermal resource
+geothermal resources
+Ocean Heat Content ( OHC )
+Ocean Mean temperature ( OMT )
+SST
+OHC
+road network databases
+roads
+road
+road network
+road segments
+alteration
+clay minerals
+quartz rich zones
+poverty - stricken areas
+multidimensional poverty index ( MPI )
+multidimensional poverty areas
+sources of dust
+major layers
+indicators
+humidity
+image
+metallic targets
+wall
+behind - the - wall object
+Land cover
+spatial feature distributions
+related subpixel mapping ( SPM )
+SPM
+landcover
+scene
+airport
+civil applications
+location
+airport contours
+clouds
+shadows
+ground - cover information
+aircraft
+anisotropy effect
+angular
+angular normalization of land surface temperature
+permafrost landscapes
+permafrost landscape
+permafrost landscape features
+permafrost - affected areas
+thermokarst ponds
+permafrost landscape maps
+LST values
+LST images
+vegetation index
+pure materials
+abundance fractions
+photovoltaic panel ( PVP )
+PVP
+PVPs
+floodplain vegetation
+floodplains
+frequency
+floodplain vegetation height
+greenness
+vegetation height
+normalized digital surface models ( nDSMs )
+consumer - grade camera vegetation index ( CGCVI )
+floodplain
+maps
+object
+automobiles
+Land Use / Cover Change ( LUCC )
+topographic effects
+subtopographic effects
+Simulated reflectance data
+water absorption effects
+GPM
+vegetation structural parameters
+forest ecosystems
+global benchmark
+future changes
+foliar / canopy biochemistry
+species classification
+subpixel vegetation structure
+vegetation structure
+baseline virtual forest scene
+subpixel vegetation structural variation
+vegetation structural changes
+vegetation structural
+Scene
+water bodies
+land use / cover change ( LUCC ) databases
+land use change
+forested ecohydrological
+channel length
+hydro - morphological attributes
+high resolution topography
+catchment area size
+stream network delineation
+rice planting areas
+rice - planting areas
+homogenous objects
+speckles
+rice
+crops ' areas
+flow behavior
+population vulnerability
+flood pulse dynamics
+landscape interactions
+flood pulse
+Chir pine
+Banj oak habitats
+invaded forest areas
+invaded pine areas
+vegetation index database
+oak habitats
+Banj oak
+natural gas leak
+natural gas concentrations
+leaks
+chemical leaf traits
+canopy level leaf nitrogen
+phosphorus concentrations
+biophysical complexity
